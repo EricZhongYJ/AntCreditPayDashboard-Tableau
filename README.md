@@ -48,7 +48,6 @@ This project uses **Tableau's data connection and cleaning features** to build a
 2. Open either `.twbx` file (choose one below):
     - `MonitoringDashboard.twbx` (English version)
     - `花呗借贷销售监控表.twbx`（中文版）
-3. If prompted, relink to the local Excel data source
-4. Explore dashboards and use filters/slicers to view by region, term, or date
+3. Explore dashboards and use filters(Month or Region)/slicers(Terms) to view by region, term, or date
 
 See Chinese README.md at [中文版](README_cn.md)
