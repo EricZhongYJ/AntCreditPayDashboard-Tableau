@@ -1,6 +1,6 @@
 ## 📊 Huabei Loan Sales Monitoring Dashboard - Tableau
 
-See another version: [Excel Dashboard](https://github.com/EricZhongYJ/AntCreditPayDashboard-Excel)
+See another version: [Excel Dashboard](https://github.com/EricZhongYJ/LoanSalesDashboard-Excel)
 
 ### Project Overview
 
