@@ -1,4 +1,4 @@
-## 📊 Huabei Loan Sales Monitoring Dashboard - Tableau
+## 📊 Monthly Huabei Loan Sales Monitoring Dashboard - Tableau
 
 See another version: [Excel Dashboard](https://github.com/EricZhongYJ/LoanSalesDashboard-Excel)
 
